@@ -2,7 +2,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Color(.systemRed)
+        VStack {
+            Color(.systemRed)
+        }
     }
 }
 
